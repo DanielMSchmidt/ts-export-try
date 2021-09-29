@@ -1,0 +1,6 @@
+node_modules/
+tsconfig.tsbuildinfo
+*.js
+*.d.ts
+!generate.js
+wafv2.ts
